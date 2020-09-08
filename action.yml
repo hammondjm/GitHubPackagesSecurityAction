@@ -11,10 +11,10 @@ inputs:
   ws-api-key:b9e6964c7b9f42299b77858299a49a5659e7b345f5974771b89cb155458a99f7
     description: 'WS organization api key'
     required: true
-  ws-user-key:53eebfb1bf8868e4f9d89e5a6199b10bb356d24e
+  ws-user-key:a090661cccf04cfe82bd4b3d670bffb9e48e2d4a7bb5441f8d650df7d47bdfec
     description: 'WS user key'
     required: true
-  ws-product-key:2defff6939fc4f75a7d309ee933c6910e6dc51daa4084811b5a21f57ee7e06aa
+  ws-product-key:eb48bff7e5eb4324ae4d306622ab3b51787f74c3774e42b78ef257162a642569
     description: 'WS product key to publish results to'
     required: false
   print-scan-report:
